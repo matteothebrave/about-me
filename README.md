@@ -28,10 +28,9 @@
 
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matteothebrave&theme=vision-friendly-dark" alt="matteothebrave stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteothebrave&theme=vision-friendly-dark">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matteothebrave">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteothebrave">
 </p>
 
 
