@@ -1,5 +1,5 @@
-<h3 align="center">Hi <img src="https://i.giphy.com/media/l09RAn2qa9VC0HafCI/giphy.webp" width="155px">!! My name is Matheus Grossi but you can call me Matteo</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
+<h2 align="right">Hi <img src="https://i.giphy.com/media/l09RAn2qa9VC0HafCI/giphy.webp" width="155px">!! My name is Matheus Grossi but you can call me Matteo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer under construction
 
