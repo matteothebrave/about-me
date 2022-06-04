@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/l09RAn2qa9VC0HafCI/giphy.gif" width="30px">,I'm Matheus Grossi</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/l09RAn2qa9VC0HafCI" width="30px">,I'm Matheus Grossi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer under construction
