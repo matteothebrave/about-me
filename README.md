@@ -41,6 +41,6 @@
  &nbsp;Social Media Links 
 
 <a href="https://www.linkedin.com/in/matheus-grossi-1437b2143" target="_blank">
-  <img align="center" src="https://i.imgur.com/H5meRAs.png" alt="linkedin"/>
+  (https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin);
 </a>
 </p>
