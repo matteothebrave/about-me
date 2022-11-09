@@ -40,6 +40,4 @@
 
  &nbsp;Social Media Links 
 
- <a href="[https://www.linkedin.com/in/matheus-grossi-1437b2143]" target="_blank"> <img src="[https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp]/> </a>
-</a>
-</p>
+ <a href="https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/" target="_blank"> <img src="https://img.shields.io/badge/Matteo-LinkedIn-blue" alt="Linked In Matteo"> </a>
