@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at (https://www.github.com/matteothebrave)
 
-- 💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS
+- 💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
 
 - ⚡ Curious fact:  Dog lover
 
