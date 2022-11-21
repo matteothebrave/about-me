@@ -1,16 +1,14 @@
-<h2 align="right">Hey there, my name is Matheus Grossi but you can call me Matteo 
-<h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
+<h2 align="left">Hey there, <br> My name is Matheus Grossi but you can call me Matteo
+<h1>  <br>
+🔥 Junior Web Developer under construction
 
-- 🔥 Junior Web Developer under construction
+🔭 I’m currently working at [Plin Condomínios]
 
-- 🔭 I’m currently working at [Plin Condomínios]
+👨‍💻 All of my projects are available at (https://www.github.com/matteothebrave)
 
-- 👨‍💻 All of my projects are available at (https://www.github.com/matteothebrave)
+💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
 
-- 💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
-
-- ⚡ Curious fact:  Dog lover
+⚡ Curious fact:  Dog lover
 
 <br><br>
 
@@ -40,4 +38,4 @@
 
 Social Media
 
- <a href="https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/" target="_blank"> <img src="https://img.shields.io/badge/Matteo-LinkedIn-blue" alt="Linked In Matteo"> </a>
+ <a href="https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/" target="_blank"> <img src="https://img.shields.io/badge/Matteo-LinkedIn-blue" alt="Linked In Matteo"> </a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
