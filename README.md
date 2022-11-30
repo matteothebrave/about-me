@@ -8,7 +8,7 @@
 
 💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
 
-⚡ Curious fact:  Dog lover
+⚡ Curious fact:  Dog trainer
 
 <br><br>
 
