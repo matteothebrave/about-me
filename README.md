@@ -1,13 +1,9 @@
 <h2 align="left">Welcome, my name is Matheus but you can call me Matteo
 <h3> <br>
 🔥 Junior Web Developer under construction
-
 🔭 I’m currently working at [Plin Condomínios]
-
 👨‍💻 All of my projects are available at (https://www.github.com/matteothebrave)
-
 💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
-
 ⚡ Curious fact:  Dog trainer
 
 <br><br>
