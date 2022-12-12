@@ -1,41 +1,16 @@
-<h2 align="left">Welcome, my name is Matheus but you can call me Matteo
-<h3> <br>
-🔥 Junior Web Developer under construction
- 
-🔭 I’m currently working at [Plin Condomínios]
- 
-👨‍💻 All of my projects are available at (https://www.github.com/matteothebrave)
- 
-💬 Ask me about: JavaScript, HTML, CSS, SQL, Node.JS, TypeScript
- 
-⚡ Curious fact:  Dog trainer
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+#  About Me:
+🔭 I’m currently working on: Plin Condomínios<br>🌱 I’m currently learning: JavaScript frameworks and Libs<br>💬 Ask me about:  Code <br>⚡ Fun fact: Dog trainer 
 
 
-<br><br>
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matteothebrave">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteothebrave">
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/math3ustavares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=matteothebrave&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matteothebrave&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matteothebrave&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<br><br>
-
-Social Media
-
- <a href="https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/" target="_blank"> <img src="https://img.shields.io/badge/Matteo-LinkedIn-blue" alt="Linked In Matteo"> </a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteothebrave&color=yellow" alt="Profile views" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=matteothebrave&icon=3&color=1)](https://visitcount.itsvg.in)
