@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on: Plin Condomínios<br>🌱 I’m currently learning: JavaScript frameworks and Libs<br>💬 Ask me about:  Code <br>⚡ Fun fact: Dog trainer 
+🔭 I’m currently working on: Plin Condomínios<br>🌱 I’m currently learning: JavaScript frameworks and Libs<br>💬 Ask me about:  Code <br>⚡ Fun fact: Dog trainer
 
 
 ## 🌐 Socials:
