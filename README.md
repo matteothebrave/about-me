@@ -1,5 +1,5 @@
 #  About Me:
-👨‍💻 I’m currently working as Software Developer<br>🌱 I’m currently learning: JavaScript, Typescript and ReactJS <br>💬 Ask me about:  Code, dogs, soccer <br>⚡ Fun fact: Dog trainer and lover
+👨‍💻 I’m currently working as Front-end developer<br>🌱 I’m currently learning: JavaScript, Typescript and ReactJS <br>💬 Ask me about:  Code, dogs, soccer <br>⚡ Fun fact: Dog trainer and lover
 
  
 ## 🌐 Socials: 
