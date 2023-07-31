@@ -1,7 +1,7 @@
 #  About Me:
 👨‍💻 I’m currently working as front-end developer <br>🌱 I’m currently learning: JavaScript, Typescript and ReactJS <br>💬 Ask me about:  Code, dogs, soccer <br>⚡ Fun fact: Dog trainer and lover;
  
-   
+    
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusgrossi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-grossi-f-t-de-oliveira-1437b2143/)   
       
