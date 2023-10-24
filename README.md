@@ -15,6 +15,6 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matteothebrave&theme=dark-smoky&border_radius=4.7&card_width=340)](https://git.io/streak-stats) 
      
-<!--   visit count -->
+<!--   visit counts here -->
 --------
 [![](https://visitcount.itsvg.in/api?id=matteothebrave&icon=3&color=1)](https://visitcount.itsvg.in)  
