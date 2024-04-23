@@ -1,7 +1,7 @@
 # <p align="center">Welcome to my Profile</p> 
 <!--   Header IMG -->   
 ![Wall](https://i.ibb.co/JdN7xJ4/myheader.png) 
-<!--   about me   -->   
+<!--   about me    -->   
 #  About Me: 
 👨‍💻 I’m currently working as front end developer <br>🌱 I’m currently learning: JavaScript, Typescript and ReactJS <br>💬 Ask me about:  code, dogs, soccer <br>⚡ Fun fact: dog trainer and lover;
     
