@@ -3,7 +3,7 @@
 ![Wall](https://i.ibb.co/JdN7xJ4/myheader.png)  
 <!--   about me     -->    
 #  About Me: 
-👨‍💻 I’m currently studying front end development and back end development <br>🌱 I’m currently learning: JavaScript, Typescript, ReactJS and NodeJS <br>💬 Ask me about:  code, dogs, soccer <br>⚡ Fun fact: dog trainer and lover;
+👨‍💻 I’m currently studying front end development and back end development <br>🌱 I’m currently learning: JavaScript, Typescript, ReactJS and NodeJS <br>💬 Ask me about:  code, dogs, soccer <br>⚡ Fun fact: dog trainer and lover; 
        
 <!--   Socials  -->         
 ## 🌐 Socials 
